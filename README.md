@@ -14,6 +14,7 @@ Medium Blog:
 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will use the Pima Indians dataset from the UCI Machine learning repository. 
 
+![demo_gif](https://github.com/Uttam580/diabetes_prediction_api/blob/master/demo.gif)
 
 **Description of variables in the dataset:**
 
@@ -36,9 +37,6 @@ In this project, the objective is to predict whether the person has Diabetes or 
 ```Outcome:``` Class variable (0 or 1)
 
 **quick demo**
-
-![demo_gif](https://github.com/Uttam580/diabetes_prediction_api/blob/master/demo.gif)
-
 
 **Diabetes-Prediction directory tree**
 ```
