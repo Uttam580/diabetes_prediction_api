@@ -17,7 +17,7 @@ Inthis project, the objective is to predict whether the person has Diabetes or n
 
 **quick demo**
 
-![](deno.gif)
+![demo_gif](https://github.com/Uttam580/diabetes_prediction_api/blob/master/demo.gif)
 
 
 ```
