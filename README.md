@@ -92,6 +92,18 @@ we can predict diabetes from two ways.
 ```uploads``` : uploded csv file will store  here  after that it will used for prediction(added test file for sample)
 
 
+## Installation
+
+* Clone this repository and unzip it.
+
+* create new env with python 3 and avtivate it .
+
+* Install the required packages using pip install -r requirements.txt
+
+* Execute the command: python app.py
+
+* Open http://127.0.0.1:5000/ in your browser.
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
