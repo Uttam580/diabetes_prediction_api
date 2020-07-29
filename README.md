@@ -83,7 +83,7 @@ we can predict diabetes from two ways.
 
 ```requirements.txt``` : required library 
 
-``src```  : conatins raw data file 
+```src```  : conatins raw data file 
 
 ```static``` : contains static file (css, img) for UI
 
