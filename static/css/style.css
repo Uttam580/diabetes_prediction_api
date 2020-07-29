@@ -28,14 +28,14 @@ body {
 }
 .login { 
 	position: absolute;
-	top: 28%;
-	left: 45%;
+	top: 40%;
+	left: 60%;
 	margin: -150px 0 0 -150px;
 	width:400px;
 	height:400px;
 }
 /* Login  */
-.login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+.h4 { color: rgb(189, 161, 161); text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
 
 
 /* Input  */
@@ -68,8 +68,19 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
     margin-top: 55px;
 }
 
+.navbar-brand{
+	float: left;
+	list-style: None;
+	margin-top: 55px;
+	color: #fff;
+}
+.navbar-brand h1 { color: #fff; 
+	text-shadow: 0 0 10px rgba(0,0,0,0.3); 
+	letter-spacing:1px; text-align:center; }
+
 .main-nav li {
-    display: inline-block;
+	display: inline-block;
+	list-style: None;
 	margin-left: 10px;
 	padding-right: 50px;
 }
@@ -91,5 +102,10 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
     border-bottom: 2px solid #e67e22;
 }
 
-
+.Prediction-mass{
+	position: absolute;
+	width: 30%;
+	top: 30%;
+	left: 5%;
+}
 
