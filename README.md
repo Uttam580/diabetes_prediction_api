@@ -8,7 +8,7 @@
 
 Medium Blog: 
 
-<a href ="https://medium.com/@uttam94/traffic-signal-detection-system-intrgrated-with-flask-d7c471fd9087"> <img src="https://github.com/Uttam580/Uttam580/blob/master/img/medium.png" width=60 height=30>
+<a href ="https://medium.com/@uttam94/diabetes-prediction-c6b3dca0a2b5"> <img src="https://github.com/Uttam580/Uttam580/blob/master/img/medium.png" width=60 height=30>
 
 # Diabetes_prediction
 
