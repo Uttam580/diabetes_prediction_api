@@ -12,7 +12,9 @@ Medium Blog:
 
 # Diabetes_prediction
 
-In this project, the objective is to predict whether the person has Diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will use the Pima Indians dataset from the UCI Machine learning repository. 
+In this project, the objective is to predict whether the person has Diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will use the Pima Indians dataset from the UCI Machine learning repository.
+
+**quick demo**
 
 ![demo_gif](https://github.com/Uttam580/diabetes_prediction_api/blob/master/demo.gif)
 
@@ -36,11 +38,14 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 ```Outcome:``` Class variable (0 or 1)
 
-**quick demo**
-
 **Diabetes-Prediction directory tree**
+
 ```
 ├─ app.py
+├─ demo.gif
+├─ downloads
+│  └─ prediction.csv
+├─ LICENSE
 ├─ models
 │  ├─ model.py
 │  ├─ my_model.pkl
@@ -55,14 +60,15 @@ In this project, the objective is to predict whether the person has Diabetes or 
 │  └─ css
 │     ├─ grid.css
 │     ├─ images
-│     │  ├─ dia.jpeg
-│     │  ├─ git.png
-│     │  └─ medium.png
+│     │  └─ dia.jpeg
 │     └─ style.css
-└─ templates
-   └─ index.html
+├─ templates
+│  └─ index.html
+└─ uploads
+   └─ test.csv
 
 ```
+
 
 ## Technologies Used
 
