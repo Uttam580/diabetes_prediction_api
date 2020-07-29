@@ -76,13 +76,20 @@ we can predict diabetes from two ways.
 ```
 
 ```app.py``` : Front and back end portion of the web application
+
 ```downloads``` : conatains predcited csv file(based on uploaded file)
-```models```: contains model for prediction
-```requirements.txt```: required library 
-``src```: conatins raw data file 
+
+```models```  : contains model for prediction
+
+```requirements.txt``` : required library 
+
+``src```  : conatins raw data file 
+
 ```static``` : contains static file (css, img) for UI
-```templates```: contains templates for UI
-```uploads```: uploded csv file will store  here  after that it will used for prediction(added test file for sample)
+
+```templates``` : contains templates for UI
+
+```uploads``` : uploded csv file will store  here  after that it will used for prediction(added test file for sample)
 
 
 ## Technologies Used
