@@ -14,6 +14,12 @@ Medium Blog:
 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will use the Pima Indians dataset from the UCI Machine learning repository.
 
+we can predict diabetes from two ways.
+
+1. User will fill the data after that prediction will be displayed over UI.
+
+2. User can upload csv file with required features and then get downloadable predicted csv  file. 
+
 **quick demo**
 
 ![demo_gif](https://github.com/Uttam580/diabetes_prediction_api/blob/master/demo.gif)
@@ -68,6 +74,15 @@ In this project, the objective is to predict whether the person has Diabetes or 
    └─ test.csv
 
 ```
+
+```app.py``` : Front and back end portion of the web application
+```downloads``` : conatains predcited csv file(based on uploaded file)
+```models```: contains model for prediction
+```requirements.txt```: required library 
+``src```: conatins raw data file 
+```static``` : contains static file (css, img) for UI
+```templates```: contains templates for UI
+```uploads```: uploded csv file will store  here  after that it will used for prediction(added test file for sample)
 
 
 ## Technologies Used
