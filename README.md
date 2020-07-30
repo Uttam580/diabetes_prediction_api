@@ -18,7 +18,11 @@ we can predict diabetes from two ways.
 
 1. User will fill the data after that prediction will be displayed over UI.
 
-2. User can upload csv file with required features and then get downloadable predicted csv  file. 
+2. User can upload csv file with required features and then get downloadable predicted csv  file.
+
+   Below is screenshot for sample csv.
+   
+   <a href = "https://miro.medium.com/max/855/1*_JQuyFFixYC5f5w2RiJX0g.png">
 
 **quick demo**
 
